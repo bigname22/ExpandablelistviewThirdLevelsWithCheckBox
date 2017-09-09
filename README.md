@@ -1,5 +1,6 @@
 ##ExpandableListView三级列表实现(带CheckBox全选功能)
 [csdn文章链接](http://blog.csdn.net/bigname22/article/details/77919025 "csdn文章链接")
+
 场景：多选车辆，并且在同一个页面实现。
 *（数据结构：公司-线路-车辆三层）*
 
